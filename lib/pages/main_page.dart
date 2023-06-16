@@ -178,6 +178,8 @@ class _MainPageState extends State<MainPage> {
                                   Row(
                                     children: [
                                       Column(
+                                        crossAxisAlignment:
+                                            CrossAxisAlignment.start,
                                         children: [
                                           Text(
                                             'ОКУГАН ЖЕРИ/ ЖУМУШУ',
